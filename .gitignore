@@ -5,4 +5,7 @@ CMakeScripts
 Makefile
 cmake_install.cmake
 install_manifest.txt
-
+out/
+build/
+compile_commands.json
+.cache/
